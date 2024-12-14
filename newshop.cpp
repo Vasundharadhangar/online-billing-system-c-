@@ -102,7 +102,7 @@ float onlineShopping() {
             goto mobileLevel;
         }
     }
-    // Other product categories (desktops, laptops, speakers, headphones) would follow a similar structure.
+    
     return billAmount;
 }
 
